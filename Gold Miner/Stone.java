@@ -11,7 +11,7 @@ public class Stone extends Object{
         this.score=20;//分数
         this.type=2;//类型
         this.flag=false;
-        this.img= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/stone.png");
+        this.img= Toolkit.getDefaultToolkit().getImage("image/stone.png");
     }
 }
 class mStone extends Stone{
@@ -24,6 +24,6 @@ class mStone extends Stone{
         this.score=10;//分数
         this.m=40;//质量
         this.flag=false;
-        this.img= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/mrr.png");
+        this.img= Toolkit.getDefaultToolkit().getImage("image/mrr.png");
     }
 }

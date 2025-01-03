@@ -13,7 +13,7 @@ public class Line {
     int times=0;
     //状态
     int state=0;
-    Image hock= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/hock.png");
+    Image hock= Toolkit.getDefaultToolkit().getImage("image/hock.png");
     Window frame;
     Line(Window frame)
     {

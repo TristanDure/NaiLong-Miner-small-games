@@ -3,13 +3,13 @@ import java.awt.event.MouseEvent;
 import java.util.Date;
 
 public class Bg {
-    Image bg= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/bg.png");
-    Image bg1= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/sky.png");
-    Image bg2= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/nailong.png");
-    Image bg3= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/water.png");
-    Image bg4= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/hongwen.png");
-    Image bg5= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/defeat.jpg");
-    Image bg6= Toolkit.getDefaultToolkit().getImage("Gold Miner/image/defeat.jpg");
+    Image bg= Toolkit.getDefaultToolkit().getImage("image/bg.png");
+    Image bg1= Toolkit.getDefaultToolkit().getImage("image/sky.png");
+    Image bg2= Toolkit.getDefaultToolkit().getImage("image/nailong.png");
+    Image bg3= Toolkit.getDefaultToolkit().getImage("image/water.png");
+    Image bg4= Toolkit.getDefaultToolkit().getImage("image/hongwen.png");
+    Image bg5= Toolkit.getDefaultToolkit().getImage("image/defeat.jpg");
+    Image bg6= Toolkit.getDefaultToolkit().getImage("image/defeat.jpg");
 
     long begin=0;
     long end=1000000;

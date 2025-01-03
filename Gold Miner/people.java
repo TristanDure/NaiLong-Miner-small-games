@@ -10,7 +10,7 @@ public class people extends Object{
         this.type=1;
         this.score=100;
         this.flag=false;
-        this.img=Toolkit.getDefaultToolkit().getImage("Gold Miner/image/ren.png");
+        this.img=Toolkit.getDefaultToolkit().getImage("image/ren.png");
 
     }
 }
@@ -24,6 +24,6 @@ class mpeople extends people{
         this.m=30;//质量
         this.score=50;
         this.flag=false;
-        this.img=Toolkit.getDefaultToolkit().getImage("Gold Miner/image/mren.png");
+        this.img=Toolkit.getDefaultToolkit().getImage("image/mren.png");
     }
 }
